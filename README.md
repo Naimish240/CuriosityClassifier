@@ -1,6 +1,6 @@
 # CuriosityClassifier
 Semi-supervised labeling of Mars images shot by the Curiosity Rover using an Auto Encoder and a SVM
-
+Inspired from [this](https://arxiv.org/pdf/1911.06623.pdf) paper I found on Arxiv.
 
 # **Introduction**
 
