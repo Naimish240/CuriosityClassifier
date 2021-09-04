@@ -20,3 +20,8 @@ So, our training process is as follows:
 
 **NOTE :**
 This is only possible for this problem statement, because all our images are captured from the same source (Curiosity's camera). This procedure might not necessarily be valid for other datasets.
+
+## **Results**
+After training the autoencoder for 150 epochs and training the classifier on the image latent vectors, we get
+- KNN : 92.1% accuracy
+- SVM : 94.5% accuracy
